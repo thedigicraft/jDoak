@@ -1,6 +1,6 @@
 # jDoak
 
-<img style="float:right; width:150px;height:150px; margin-left:30px;" src="assets/logos/logo.svg">
+<img align="right" width="150" src="assets/logos/logo.svg">
 
 Software to help ditch those old photo CDs and floppy disks.
 
