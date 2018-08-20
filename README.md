@@ -1,8 +1,10 @@
 # jDoak
 
+<img style="float:right; width:150px;height:150px; margin-left:30px;" src="assets/logos/logo.svg">
+
 Software to help ditch those old photo CDs and floppy disks.
 
-Only a preview screenshot is avaiable right now. I need to clean some things up and then I will push the source and provide a beta executable. 
+Only a preview screenshot is avaiable right now. I need to clean some things up and then I will push the source and provide a beta executable.
 
 This is still in development but contributions are welcome!
 
